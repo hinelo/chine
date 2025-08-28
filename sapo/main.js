@@ -44,6 +44,6 @@ function end_game() {
         resultado = "sapo"
     }
     document.getElementById('question').innerHTML ="Você tirou "+ pontos+ "<br> Diagnostico: " + resultado
-    document.getElementById('numero').innerHTML = '<a href="chine/sapo/index.html" ><button>Voltar</button></a>'
+    document.getElementById('numero').innerHTML = '<a href="index.html" ><button>Voltar</button></a>'
     document.getElementById('bt').style.display = 'none'
 }
