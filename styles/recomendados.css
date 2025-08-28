@@ -1,0 +1,35 @@
+body {
+            background: linear-gradient(to right, blue, skyblue);
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            text-align: left;
+            padding: 20px;
+        }
+.display {
+      background-color: rgba(0,0,0,0.85);
+      position: middle;
+      width:%;
+      border-radius: 15px;
+      padding: 80px;
+      color: white;
+  }
+.bar {
+  background-color: rgba(0,0,0,1);
+  position: top;
+  color:white;
+  padding:10px;
+  border-radius: 15px;
+}
+.pages {
+  background-color: dodgerblue;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  border-radius: 15px;
+  font-size: 15px;
+}
+.link {
+  text-decoration: none;
+  color: skyblue;
+  border-radius: 15px;
+}
